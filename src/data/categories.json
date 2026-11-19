@@ -1,0 +1,38 @@
+[
+  {
+    "id": "clothing",
+    "slug": "clothing",
+    "name": "Clothing",
+    "description": "Architectural tailoring, Italian silks, and quietly structured everyday silhouettes.",
+    "image": "/images/categories/clothing.png",
+    "subcategories": ["Shirts", "Blazers", "Trousers", "Knitwear", "Outerwear", "Tees"],
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "shoes",
+    "slug": "shoes",
+    "name": "Shoes",
+    "description": "Blake-stitched loafers, calfskin sneakers, and weatherproof Italian suede boots.",
+    "image": "/images/categories/shoes.png",
+    "subcategories": ["Loafers", "Sneakers", "Boots"],
+    "sizes": ["40", "41", "42", "43", "44", "45"]
+  },
+  {
+    "id": "bags",
+    "slug": "bags",
+    "name": "Bags",
+    "description": "Vegetable-tanned leather carryalls built for daily transit and extended weekends.",
+    "image": "/images/categories/bags.png",
+    "subcategories": ["Tote", "Messenger", "Weekender"],
+    "sizes": ["OS"]
+  },
+  {
+    "id": "accessories",
+    "slug": "accessories",
+    "name": "Accessories",
+    "description": "Finishing accents in brushed brass, Japanese acetate, cashmere, and full-grain leather.",
+    "image": "/images/categories/accessories.png",
+    "subcategories": ["Belts", "Caps", "Sunglasses", "Scarves", "Wallets"],
+    "sizes": ["OS", "S/M", "L/XL"]
+  }
+]

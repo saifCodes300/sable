@@ -1,0 +1,23 @@
+[
+  {
+    "code": "SABLE10",
+    "type": "percent",
+    "value": 10,
+    "description": "10% off your order",
+    "minSubtotal": 0
+  },
+  {
+    "code": "WELCOME15",
+    "type": "percent",
+    "value": 15,
+    "description": "15% welcome discount",
+    "minSubtotal": 0
+  },
+  {
+    "code": "FREESHIP",
+    "type": "shipping",
+    "value": 0,
+    "description": "Complimentary standard shipping",
+    "minSubtotal": 0
+  }
+]

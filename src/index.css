@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color: #0A0A0A;
+    background-color: #FFFFFF;
+  }
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #0A0A0A;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  *:focus-visible {
+    outline: 1px solid #0A0A0A;
+    outline-offset: 2px;
+  }
+}
+
+/* Custom range slider for price filter */
+input[type='range'].sable-range {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  pointer-events: none;
+}
+
+input[type='range'].sable-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 14px;
+  width: 14px;
+  border-radius: 0px;
+  background: #0A0A0A;
+  border: 1px solid #0A0A0A;
+  cursor: pointer;
+  pointer-events: auto;
+  transition: background-color 150ms ease;
+}
+
+input[type='range'].sable-range::-webkit-slider-thumb:hover {
+  background: #7A5230;
+  border-color: #7A5230;
+}
+
+input[type='range'].sable-range::-moz-range-thumb {
+  height: 14px;
+  width: 14px;
+  border-radius: 0px;
+  background: #0A0A0A;
+  border: 1px solid #0A0A0A;
+  cursor: pointer;
+  pointer-events: auto;
+  transition: background-color 150ms ease;
+}
+
+/* Hide scrollbars cleanly where horizontal snap scrolling is used */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

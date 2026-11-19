@@ -1,0 +1,1904 @@
+[
+  {
+    "id": "sbl-001",
+    "slug": "silk-wool-camp-collar-shirt",
+    "name": "Silk-Wool Camp Collar Shirt",
+    "category": "clothing",
+    "subcategory": "Shirts",
+    "price": 420,
+    "description": "Cut for a relaxed architectural drape from a liquid-hand blend of Como mulberry silk and superfine merino wool. Finished with smoked mother-of-pearl buttons and a single-needle French seam interior.",
+    "fabric": "70% mulberry silk, 30% superfine virgin wool. True to size, model is 6'1\" and wears size M.",
+    "careInstructions": "Dry clean only. Steam lightly on reverse using low heat. Store on a wide wooden hanger.",
+    "rating": 5,
+    "reviewCount": 84,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-10T10:00:00Z",
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/silk-wool-camp-collar-shirt-ink-1.png",
+          "/images/products/silk-wool-camp-collar-shirt-ink-2.png",
+          "/images/products/silk-wool-camp-collar-shirt-ink-3.png",
+          "/images/products/silk-wool-camp-collar-shirt-ink-4.png",
+          "/images/products/silk-wool-camp-collar-shirt-ink-5.png",
+          "/images/products/silk-wool-camp-collar-shirt-ink-6.png"
+        ]
+      },
+      {
+        "name": "Cream",
+        "hex": "#EFE9DC",
+        "images": [
+          "/images/products/silk-wool-camp-collar-shirt-cream-1.png",
+          "/images/products/silk-wool-camp-collar-shirt-cream-2.png",
+          "/images/products/silk-wool-camp-collar-shirt-cream-3.png",
+          "/images/products/silk-wool-camp-collar-shirt-cream-4.png",
+          "/images/products/silk-wool-camp-collar-shirt-cream-5.png",
+          "/images/products/silk-wool-camp-collar-shirt-cream-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/silk-wool-camp-collar-shirt-taupe-1.png",
+          "/images/products/silk-wool-camp-collar-shirt-taupe-2.png",
+          "/images/products/silk-wool-camp-collar-shirt-taupe-3.png",
+          "/images/products/silk-wool-camp-collar-shirt-taupe-4.png",
+          "/images/products/silk-wool-camp-collar-shirt-taupe-5.png",
+          "/images/products/silk-wool-camp-collar-shirt-taupe-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 4
+      },
+      {
+        "label": "S",
+        "stock": 9
+      },
+      {
+        "label": "M",
+        "stock": 12
+      },
+      {
+        "label": "L",
+        "stock": 3
+      },
+      {
+        "label": "XL",
+        "stock": 0
+      }
+    ],
+    "tags": [
+      "silk",
+      "shirt",
+      "evening",
+      "editorial",
+      "bestseller"
+    ]
+  },
+  {
+    "id": "sbl-002",
+    "slug": "brushed-twill-overshirt",
+    "name": "Brushed Twill Atelier Overshirt",
+    "category": "clothing",
+    "subcategory": "Shirts",
+    "price": 340,
+    "description": "Tailored from heavyweight Japanese brushed cotton twill with a soft peach-skin finish. Detailed with concealed placket horn buttons and mitered chest pockets for effortless layering.",
+    "fabric": "100% organic Japanese cotton twill (320gsm). Relaxed fit; take your normal size.",
+    "careInstructions": "Cold gentle machine wash inside out. Line dry in shade. Warm iron if needed.",
+    "rating": 4.9,
+    "reviewCount": 52,
+    "isNew": false,
+    "featured": true,
+    "createdAt": "2026-10-22T10:00:00Z",
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/brushed-twill-overshirt-sand-1.png",
+          "/images/products/brushed-twill-overshirt-sand-2.png",
+          "/images/products/brushed-twill-overshirt-sand-3.png",
+          "/images/products/brushed-twill-overshirt-sand-4.png",
+          "/images/products/brushed-twill-overshirt-sand-5.png",
+          "/images/products/brushed-twill-overshirt-sand-6.png"
+        ]
+      },
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/brushed-twill-overshirt-olive-1.png",
+          "/images/products/brushed-twill-overshirt-olive-2.png",
+          "/images/products/brushed-twill-overshirt-olive-3.png",
+          "/images/products/brushed-twill-overshirt-olive-4.png",
+          "/images/products/brushed-twill-overshirt-olive-5.png",
+          "/images/products/brushed-twill-overshirt-olive-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 2
+      },
+      {
+        "label": "S",
+        "stock": 7
+      },
+      {
+        "label": "M",
+        "stock": 10
+      },
+      {
+        "label": "L",
+        "stock": 6
+      },
+      {
+        "label": "XL",
+        "stock": 4
+      }
+    ],
+    "tags": [
+      "overshirt",
+      "cotton",
+      "twill",
+      "layering"
+    ]
+  },
+  {
+    "id": "sbl-003",
+    "slug": "unstructured-double-breasted-blazer",
+    "name": "Unstructured Double-Breasted Blazer",
+    "category": "clothing",
+    "subcategory": "Blazers",
+    "price": 780,
+    "description": "Soft-shouldered Neapolitan construction in a breathable hopsack virgin wool woven in Biella. Half-lined in Bemberg cupro for weightless drape from boardroom to late dinner.",
+    "fabric": "100% Biella virgin wool hopsack; 100% cupro half-lining. True to size.",
+    "careInstructions": "Dry clean only. Brush gently with a horsehair garment brush after wear.",
+    "rating": 4.9,
+    "reviewCount": 63,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-08T10:00:00Z",
+    "colors": [
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/unstructured-double-breasted-blazer-taupe-1.png",
+          "/images/products/unstructured-double-breasted-blazer-taupe-2.png",
+          "/images/products/unstructured-double-breasted-blazer-taupe-3.png",
+          "/images/products/unstructured-double-breasted-blazer-taupe-4.png",
+          "/images/products/unstructured-double-breasted-blazer-taupe-5.png",
+          "/images/products/unstructured-double-breasted-blazer-taupe-6.png"
+        ]
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/unstructured-double-breasted-blazer-ink-1.png",
+          "/images/products/unstructured-double-breasted-blazer-ink-2.png",
+          "/images/products/unstructured-double-breasted-blazer-ink-3.png",
+          "/images/products/unstructured-double-breasted-blazer-ink-4.png",
+          "/images/products/unstructured-double-breasted-blazer-ink-5.png",
+          "/images/products/unstructured-double-breasted-blazer-ink-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 0
+      },
+      {
+        "label": "S",
+        "stock": 5
+      },
+      {
+        "label": "M",
+        "stock": 8
+      },
+      {
+        "label": "L",
+        "stock": 5
+      },
+      {
+        "label": "XL",
+        "stock": 2
+      }
+    ],
+    "tags": [
+      "blazer",
+      "tailoring",
+      "wool",
+      "double-breasted"
+    ]
+  },
+  {
+    "id": "sbl-004",
+    "slug": "relaxed-flannel-single-blazer",
+    "name": "Relaxed Flannel Single Blazer",
+    "category": "clothing",
+    "subcategory": "Blazers",
+    "price": 690,
+    "description": "A clean two-button silhouette milled from combed wool-cashmere flannel. Features patch hip pockets, working surgeon cuffs, and natural corozo buttons.",
+    "fabric": "90% superfine wool, 10% cashmere flannel. Relaxed tailored cut.",
+    "careInstructions": "Specialist dry clean only. Rest 24 hours between wears.",
+    "rating": 4.8,
+    "reviewCount": 37,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-09-28T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/relaxed-flannel-single-blazer-black-1.png",
+          "/images/products/relaxed-flannel-single-blazer-black-2.png",
+          "/images/products/relaxed-flannel-single-blazer-black-3.png",
+          "/images/products/relaxed-flannel-single-blazer-black-4.png",
+          "/images/products/relaxed-flannel-single-blazer-black-5.png",
+          "/images/products/relaxed-flannel-single-blazer-black-6.png"
+        ]
+      },
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/relaxed-flannel-single-blazer-sand-1.png",
+          "/images/products/relaxed-flannel-single-blazer-sand-2.png",
+          "/images/products/relaxed-flannel-single-blazer-sand-3.png",
+          "/images/products/relaxed-flannel-single-blazer-sand-4.png",
+          "/images/products/relaxed-flannel-single-blazer-sand-5.png",
+          "/images/products/relaxed-flannel-single-blazer-sand-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 3
+      },
+      {
+        "label": "S",
+        "stock": 6
+      },
+      {
+        "label": "M",
+        "stock": 9
+      },
+      {
+        "label": "L",
+        "stock": 4
+      },
+      {
+        "label": "XL",
+        "stock": 3
+      }
+    ],
+    "tags": [
+      "blazer",
+      "flannel",
+      "cashmere",
+      "tailoring"
+    ]
+  },
+  {
+    "id": "sbl-005",
+    "slug": "double-pleated-wool-trousers",
+    "name": "Double-Pleated Wool Trousers",
+    "category": "clothing",
+    "subcategory": "Trousers",
+    "price": 380,
+    "description": "High-waisted wide-tapered trousers with forward double pleats and extended tab waist closure. Spun in high-twist tropical wool that resists creasing during long travel.",
+    "fabric": "100% high-twist Italian tropical wool. Mid-to-high rise with full drape.",
+    "careInstructions": "Dry clean only. Press with a damp cloth along the front crease.",
+    "rating": 4.9,
+    "reviewCount": 71,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-05T10:00:00Z",
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/double-pleated-wool-trousers-sand-1.png",
+          "/images/products/double-pleated-wool-trousers-sand-2.png",
+          "/images/products/double-pleated-wool-trousers-sand-3.png",
+          "/images/products/double-pleated-wool-trousers-sand-4.png",
+          "/images/products/double-pleated-wool-trousers-sand-5.png",
+          "/images/products/double-pleated-wool-trousers-sand-6.png"
+        ]
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/double-pleated-wool-trousers-ink-1.png",
+          "/images/products/double-pleated-wool-trousers-ink-2.png",
+          "/images/products/double-pleated-wool-trousers-ink-3.png",
+          "/images/products/double-pleated-wool-trousers-ink-4.png",
+          "/images/products/double-pleated-wool-trousers-ink-5.png",
+          "/images/products/double-pleated-wool-trousers-ink-6.png"
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/double-pleated-wool-trousers-black-1.png",
+          "/images/products/double-pleated-wool-trousers-black-2.png",
+          "/images/products/double-pleated-wool-trousers-black-3.png",
+          "/images/products/double-pleated-wool-trousers-black-4.png",
+          "/images/products/double-pleated-wool-trousers-black-5.png",
+          "/images/products/double-pleated-wool-trousers-black-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 5
+      },
+      {
+        "label": "S",
+        "stock": 10
+      },
+      {
+        "label": "M",
+        "stock": 14
+      },
+      {
+        "label": "L",
+        "stock": 8
+      },
+      {
+        "label": "XL",
+        "stock": 2
+      }
+    ],
+    "tags": [
+      "trousers",
+      "pleated",
+      "wool",
+      "tailoring"
+    ]
+  },
+  {
+    "id": "sbl-006",
+    "slug": "relaxed-drawstring-linen-trousers",
+    "name": "Relaxed Drawstring Linen Trousers",
+    "category": "clothing",
+    "subcategory": "Trousers",
+    "price": 295,
+    "description": "Tailored ease in washed Belgian heavy linen with an internal cotton drawstring, welt back pockets, and a fluid straight leg that breaks softly over loafers.",
+    "fabric": "100% Belgian heavyweight flax linen (280gsm). Relaxed straight cut.",
+    "careInstructions": "Cold gentle wash, hang dry, steam while slightly damp.",
+    "rating": 4.7,
+    "reviewCount": 41,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-09-14T10:00:00Z",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#EFE9DC",
+        "images": [
+          "/images/products/relaxed-drawstring-linen-trousers-cream-1.png",
+          "/images/products/relaxed-drawstring-linen-trousers-cream-2.png",
+          "/images/products/relaxed-drawstring-linen-trousers-cream-3.png",
+          "/images/products/relaxed-drawstring-linen-trousers-cream-4.png",
+          "/images/products/relaxed-drawstring-linen-trousers-cream-5.png",
+          "/images/products/relaxed-drawstring-linen-trousers-cream-6.png"
+        ]
+      },
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/relaxed-drawstring-linen-trousers-olive-1.png",
+          "/images/products/relaxed-drawstring-linen-trousers-olive-2.png",
+          "/images/products/relaxed-drawstring-linen-trousers-olive-3.png",
+          "/images/products/relaxed-drawstring-linen-trousers-olive-4.png",
+          "/images/products/relaxed-drawstring-linen-trousers-olive-5.png",
+          "/images/products/relaxed-drawstring-linen-trousers-olive-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 4
+      },
+      {
+        "label": "S",
+        "stock": 8
+      },
+      {
+        "label": "M",
+        "stock": 7
+      },
+      {
+        "label": "L",
+        "stock": 6
+      },
+      {
+        "label": "XL",
+        "stock": 0
+      }
+    ],
+    "tags": [
+      "trousers",
+      "linen",
+      "relaxed",
+      "summer"
+    ]
+  },
+  {
+    "id": "sbl-007",
+    "slug": "ribbed-cashmere-crewneck",
+    "name": "Ribbed Cashmere Crewneck",
+    "category": "clothing",
+    "subcategory": "Knitwear",
+    "price": 540,
+    "description": "Knitted in 7-gauge four-ply Scottish cashmere with an English fisherman rib structure. Features saddle shoulders and rolled collar framing for refined texture.",
+    "fabric": "100% Grade-A Inner Mongolian cashmere spun in Scotland. True to size.",
+    "careInstructions": "Hand wash cold with wool detergent and dry flat away from heat. Fold to store.",
+    "rating": 5,
+    "reviewCount": 59,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-02T10:00:00Z",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#EFE9DC",
+        "images": [
+          "/images/products/ribbed-cashmere-crewneck-cream-1.png",
+          "/images/products/ribbed-cashmere-crewneck-cream-2.png",
+          "/images/products/ribbed-cashmere-crewneck-cream-3.png",
+          "/images/products/ribbed-cashmere-crewneck-cream-4.png",
+          "/images/products/ribbed-cashmere-crewneck-cream-5.png",
+          "/images/products/ribbed-cashmere-crewneck-cream-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/ribbed-cashmere-crewneck-taupe-1.png",
+          "/images/products/ribbed-cashmere-crewneck-taupe-2.png",
+          "/images/products/ribbed-cashmere-crewneck-taupe-3.png",
+          "/images/products/ribbed-cashmere-crewneck-taupe-4.png",
+          "/images/products/ribbed-cashmere-crewneck-taupe-5.png",
+          "/images/products/ribbed-cashmere-crewneck-taupe-6.png"
+        ]
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/ribbed-cashmere-crewneck-ink-1.png",
+          "/images/products/ribbed-cashmere-crewneck-ink-2.png",
+          "/images/products/ribbed-cashmere-crewneck-ink-3.png",
+          "/images/products/ribbed-cashmere-crewneck-ink-4.png",
+          "/images/products/ribbed-cashmere-crewneck-ink-5.png",
+          "/images/products/ribbed-cashmere-crewneck-ink-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 3
+      },
+      {
+        "label": "S",
+        "stock": 6
+      },
+      {
+        "label": "M",
+        "stock": 9
+      },
+      {
+        "label": "L",
+        "stock": 5
+      },
+      {
+        "label": "XL",
+        "stock": 3
+      }
+    ],
+    "tags": [
+      "cashmere",
+      "knitwear",
+      "sweater",
+      "winter"
+    ]
+  },
+  {
+    "id": "sbl-008",
+    "slug": "merino-zip-polo-knit",
+    "name": "Fine Merino Zip Polo Knit",
+    "category": "clothing",
+    "subcategory": "Knitwear",
+    "price": 310,
+    "description": "14-gauge extra-fine Zegna Baruffa merino wool knitted to a crisp Milano stitch. Fitted with a brushed palladium Riri half-zip and ribbed hem.",
+    "fabric": "100% extra-fine Italian merino wool. Tailored slim-regular fit.",
+    "careInstructions": "Hand wash cold or dry clean. Dry flat on a towel.",
+    "rating": 4.8,
+    "reviewCount": 44,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-10-12T10:00:00Z",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/merino-zip-polo-knit-olive-1.png",
+          "/images/products/merino-zip-polo-knit-olive-2.png",
+          "/images/products/merino-zip-polo-knit-olive-3.png",
+          "/images/products/merino-zip-polo-knit-olive-4.png",
+          "/images/products/merino-zip-polo-knit-olive-5.png",
+          "/images/products/merino-zip-polo-knit-olive-6.png"
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/merino-zip-polo-knit-black-1.png",
+          "/images/products/merino-zip-polo-knit-black-2.png",
+          "/images/products/merino-zip-polo-knit-black-3.png",
+          "/images/products/merino-zip-polo-knit-black-4.png",
+          "/images/products/merino-zip-polo-knit-black-5.png",
+          "/images/products/merino-zip-polo-knit-black-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 2
+      },
+      {
+        "label": "S",
+        "stock": 8
+      },
+      {
+        "label": "M",
+        "stock": 11
+      },
+      {
+        "label": "L",
+        "stock": 7
+      },
+      {
+        "label": "XL",
+        "stock": 4
+      }
+    ],
+    "tags": [
+      "merino",
+      "polo",
+      "knitwear",
+      "zip"
+    ]
+  },
+  {
+    "id": "sbl-009",
+    "slug": "double-faced-wool-overcoat",
+    "name": "Double-Faced Wool Balmacaan Coat",
+    "category": "clothing",
+    "subcategory": "Outerwear",
+    "price": 1180,
+    "description": "Hand-stitched double-faced virgin wool and cashmere coat with generous raglan sleeves and an elongated midi hem. Unlined by design for fluid movement.",
+    "fabric": "85% virgin wool, 15% cashmere double-faced cloth (620gsm). Generous fit for layering over tailoring.",
+    "careInstructions": "Dry clean only. Store on a contoured coat hanger in a breathable garment bag.",
+    "rating": 5,
+    "reviewCount": 48,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-12T10:00:00Z",
+    "colors": [
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/double-faced-wool-overcoat-taupe-1.png",
+          "/images/products/double-faced-wool-overcoat-taupe-2.png",
+          "/images/products/double-faced-wool-overcoat-taupe-3.png",
+          "/images/products/double-faced-wool-overcoat-taupe-4.png",
+          "/images/products/double-faced-wool-overcoat-taupe-5.png",
+          "/images/products/double-faced-wool-overcoat-taupe-6.png"
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/double-faced-wool-overcoat-black-1.png",
+          "/images/products/double-faced-wool-overcoat-black-2.png",
+          "/images/products/double-faced-wool-overcoat-black-3.png",
+          "/images/products/double-faced-wool-overcoat-black-4.png",
+          "/images/products/double-faced-wool-overcoat-black-5.png",
+          "/images/products/double-faced-wool-overcoat-black-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 1
+      },
+      {
+        "label": "S",
+        "stock": 4
+      },
+      {
+        "label": "M",
+        "stock": 6
+      },
+      {
+        "label": "L",
+        "stock": 3
+      },
+      {
+        "label": "XL",
+        "stock": 2
+      }
+    ],
+    "tags": [
+      "coat",
+      "outerwear",
+      "wool",
+      "cashmere",
+      "flagship"
+    ]
+  },
+  {
+    "id": "sbl-010",
+    "slug": "suede-blouson-varsity-jacket",
+    "name": "Calf Suede Blouson Jacket",
+    "category": "clothing",
+    "subcategory": "Outerwear",
+    "price": 1350,
+    "description": "Supple full-reverse Italian calf suede trimmed with tonal merino rib knit collar and cuffs. Features two-way brushed gunmetal zipper and interior welt pockets.",
+    "fabric": "100% Italian calf suede; 100% viscose satin lining. True to size with clean cropped waist.",
+    "careInstructions": "Specialist leather dry clean only. Treat with neutral suede protector spray.",
+    "rating": 4.9,
+    "reviewCount": 33,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-01T10:00:00Z",
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/suede-blouson-varsity-jacket-sand-1.png",
+          "/images/products/suede-blouson-varsity-jacket-sand-2.png",
+          "/images/products/suede-blouson-varsity-jacket-sand-3.png",
+          "/images/products/suede-blouson-varsity-jacket-sand-4.png",
+          "/images/products/suede-blouson-varsity-jacket-sand-5.png",
+          "/images/products/suede-blouson-varsity-jacket-sand-6.png"
+        ]
+      },
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/suede-blouson-varsity-jacket-olive-1.png",
+          "/images/products/suede-blouson-varsity-jacket-olive-2.png",
+          "/images/products/suede-blouson-varsity-jacket-olive-3.png",
+          "/images/products/suede-blouson-varsity-jacket-olive-4.png",
+          "/images/products/suede-blouson-varsity-jacket-olive-5.png",
+          "/images/products/suede-blouson-varsity-jacket-olive-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 0
+      },
+      {
+        "label": "S",
+        "stock": 3
+      },
+      {
+        "label": "M",
+        "stock": 5
+      },
+      {
+        "label": "L",
+        "stock": 4
+      },
+      {
+        "label": "XL",
+        "stock": 2
+      }
+    ],
+    "tags": [
+      "suede",
+      "jacket",
+      "outerwear",
+      "blouson"
+    ]
+  },
+  {
+    "id": "sbl-011",
+    "slug": "heavyweight-supima-architect-tee",
+    "name": "Heavyweight Supima Architect Tee",
+    "category": "clothing",
+    "subcategory": "Tees",
+    "price": 125,
+    "description": "Knitted from dense 260gsm long-staple Supima cotton jersey with a high-set ribbed mock-crew collar and subtly dropped shoulders that hold structure all day.",
+    "fabric": "100% combed Supima cotton jersey (260gsm). Relaxed boxy fit.",
+    "careInstructions": "Machine wash cold with like colors. Lay flat or hang to dry.",
+    "rating": 4.8,
+    "reviewCount": 112,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-08-20T10:00:00Z",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#EFE9DC",
+        "images": [
+          "/images/products/heavyweight-supima-architect-tee-cream-1.png",
+          "/images/products/heavyweight-supima-architect-tee-cream-2.png",
+          "/images/products/heavyweight-supima-architect-tee-cream-3.png",
+          "/images/products/heavyweight-supima-architect-tee-cream-4.png",
+          "/images/products/heavyweight-supima-architect-tee-cream-5.png",
+          "/images/products/heavyweight-supima-architect-tee-cream-6.png"
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/heavyweight-supima-architect-tee-black-1.png",
+          "/images/products/heavyweight-supima-architect-tee-black-2.png",
+          "/images/products/heavyweight-supima-architect-tee-black-3.png",
+          "/images/products/heavyweight-supima-architect-tee-black-4.png",
+          "/images/products/heavyweight-supima-architect-tee-black-5.png",
+          "/images/products/heavyweight-supima-architect-tee-black-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/heavyweight-supima-architect-tee-taupe-1.png",
+          "/images/products/heavyweight-supima-architect-tee-taupe-2.png",
+          "/images/products/heavyweight-supima-architect-tee-taupe-3.png",
+          "/images/products/heavyweight-supima-architect-tee-taupe-4.png",
+          "/images/products/heavyweight-supima-architect-tee-taupe-5.png",
+          "/images/products/heavyweight-supima-architect-tee-taupe-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 12
+      },
+      {
+        "label": "S",
+        "stock": 18
+      },
+      {
+        "label": "M",
+        "stock": 24
+      },
+      {
+        "label": "L",
+        "stock": 15
+      },
+      {
+        "label": "XL",
+        "stock": 9
+      }
+    ],
+    "tags": [
+      "tee",
+      "supima",
+      "essentials",
+      "cotton"
+    ]
+  },
+  {
+    "id": "sbl-012",
+    "slug": "silk-cotton-long-sleeve-tee",
+    "name": "Silk-Cotton Long Sleeve Tee",
+    "category": "clothing",
+    "subcategory": "Tees",
+    "price": 175,
+    "description": "An elevated base layer with a cool luster and featherweight drape, designed to sit cleanly beneath unstructured tailoring or standalone with pleated wool trousers.",
+    "fabric": "55% mulberry silk, 45% Sea Island cotton interlock. True to size.",
+    "careInstructions": "Hand wash cold inside out. Dry flat.",
+    "rating": 4.7,
+    "reviewCount": 29,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-09-05T10:00:00Z",
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/silk-cotton-long-sleeve-tee-ink-1.png",
+          "/images/products/silk-cotton-long-sleeve-tee-ink-2.png",
+          "/images/products/silk-cotton-long-sleeve-tee-ink-3.png",
+          "/images/products/silk-cotton-long-sleeve-tee-ink-4.png",
+          "/images/products/silk-cotton-long-sleeve-tee-ink-5.png",
+          "/images/products/silk-cotton-long-sleeve-tee-ink-6.png"
+        ]
+      },
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/silk-cotton-long-sleeve-tee-sand-1.png",
+          "/images/products/silk-cotton-long-sleeve-tee-sand-2.png",
+          "/images/products/silk-cotton-long-sleeve-tee-sand-3.png",
+          "/images/products/silk-cotton-long-sleeve-tee-sand-4.png",
+          "/images/products/silk-cotton-long-sleeve-tee-sand-5.png",
+          "/images/products/silk-cotton-long-sleeve-tee-sand-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "XS",
+        "stock": 5
+      },
+      {
+        "label": "S",
+        "stock": 9
+      },
+      {
+        "label": "M",
+        "stock": 11
+      },
+      {
+        "label": "L",
+        "stock": 8
+      },
+      {
+        "label": "XL",
+        "stock": 4
+      }
+    ],
+    "tags": [
+      "tee",
+      "long-sleeve",
+      "silk",
+      "layering"
+    ]
+  },
+  {
+    "id": "sbl-013",
+    "slug": "marche-suede-penny-loafer",
+    "name": "Marche Unlined Suede Penny Loafer",
+    "category": "shoes",
+    "subcategory": "Loafers",
+    "price": 520,
+    "description": "Hand-lasted in Marche, Italy using unlined water-repellent calf suede that molds effortlessly to the foot. Set on a flexible Blake-stitched leather sole with rubber heel insert.",
+    "fabric": "100% Italian reverse calf suede upper; vegetable-tanned leather sole.",
+    "careInstructions": "Brush with a crepe suede brush after wear. Use cedar shoe trees.",
+    "rating": 4.9,
+    "reviewCount": 67,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-06T10:00:00Z",
+    "colors": [
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/marche-suede-penny-loafer-taupe-1.png",
+          "/images/products/marche-suede-penny-loafer-taupe-2.png",
+          "/images/products/marche-suede-penny-loafer-taupe-3.png",
+          "/images/products/marche-suede-penny-loafer-taupe-4.png",
+          "/images/products/marche-suede-penny-loafer-taupe-5.png",
+          "/images/products/marche-suede-penny-loafer-taupe-6.png"
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/marche-suede-penny-loafer-black-1.png",
+          "/images/products/marche-suede-penny-loafer-black-2.png",
+          "/images/products/marche-suede-penny-loafer-black-3.png",
+          "/images/products/marche-suede-penny-loafer-black-4.png",
+          "/images/products/marche-suede-penny-loafer-black-5.png",
+          "/images/products/marche-suede-penny-loafer-black-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "40",
+        "stock": 4
+      },
+      {
+        "label": "41",
+        "stock": 6
+      },
+      {
+        "label": "42",
+        "stock": 8
+      },
+      {
+        "label": "43",
+        "stock": 5
+      },
+      {
+        "label": "44",
+        "stock": 3
+      },
+      {
+        "label": "45",
+        "stock": 0
+      }
+    ],
+    "tags": [
+      "loafer",
+      "suede",
+      "italian",
+      "shoes"
+    ]
+  },
+  {
+    "id": "sbl-014",
+    "slug": "belgian-calfskin-venetian-loafer",
+    "name": "Calfskin Venetian Slip-On Loafer",
+    "category": "shoes",
+    "subcategory": "Loafers",
+    "price": 560,
+    "description": "Minimalist apron-stitched Venetian silhouette in box calfskin with a softly squared almond toe and cushioned calfskin footbed.",
+    "fabric": "100% French box calfskin; stacked leather heel and stitched outsole.",
+    "careInstructions": "Wipe with a soft cloth and condition periodically with neutral cream polish.",
+    "rating": 4.8,
+    "reviewCount": 31,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-09-18T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/belgian-calfskin-venetian-loafer-black-1.png",
+          "/images/products/belgian-calfskin-venetian-loafer-black-2.png",
+          "/images/products/belgian-calfskin-venetian-loafer-black-3.png",
+          "/images/products/belgian-calfskin-venetian-loafer-black-4.png",
+          "/images/products/belgian-calfskin-venetian-loafer-black-5.png",
+          "/images/products/belgian-calfskin-venetian-loafer-black-6.png"
+        ]
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/belgian-calfskin-venetian-loafer-ink-1.png",
+          "/images/products/belgian-calfskin-venetian-loafer-ink-2.png",
+          "/images/products/belgian-calfskin-venetian-loafer-ink-3.png",
+          "/images/products/belgian-calfskin-venetian-loafer-ink-4.png",
+          "/images/products/belgian-calfskin-venetian-loafer-ink-5.png",
+          "/images/products/belgian-calfskin-venetian-loafer-ink-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "40",
+        "stock": 3
+      },
+      {
+        "label": "41",
+        "stock": 5
+      },
+      {
+        "label": "42",
+        "stock": 7
+      },
+      {
+        "label": "43",
+        "stock": 6
+      },
+      {
+        "label": "44",
+        "stock": 4
+      },
+      {
+        "label": "45",
+        "stock": 2
+      }
+    ],
+    "tags": [
+      "loafer",
+      "calfskin",
+      "dress",
+      "shoes"
+    ]
+  },
+  {
+    "id": "sbl-015",
+    "slug": "minimal-court-calfskin-sneaker",
+    "name": "Minimal Court Calfskin Sneaker",
+    "category": "shoes",
+    "subcategory": "Sneakers",
+    "price": 395,
+    "description": "Low-profile studio sneaker stripped of logos, crafted from supple full-grain Nappa calfskin and tonal Margom cup sole with waxed cotton laces.",
+    "fabric": "100% Italian Nappa calfskin upper & lining; natural rubber Margom outsole.",
+    "careInstructions": "Clean with a damp microfiber cloth. Store in included dust bags.",
+    "rating": 4.9,
+    "reviewCount": 94,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-04T10:00:00Z",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#EFE9DC",
+        "images": [
+          "/images/products/minimal-court-calfskin-sneaker-cream-1.png",
+          "/images/products/minimal-court-calfskin-sneaker-cream-2.png",
+          "/images/products/minimal-court-calfskin-sneaker-cream-3.png",
+          "/images/products/minimal-court-calfskin-sneaker-cream-4.png",
+          "/images/products/minimal-court-calfskin-sneaker-cream-5.png",
+          "/images/products/minimal-court-calfskin-sneaker-cream-6.png"
+        ]
+      },
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/minimal-court-calfskin-sneaker-sand-1.png",
+          "/images/products/minimal-court-calfskin-sneaker-sand-2.png",
+          "/images/products/minimal-court-calfskin-sneaker-sand-3.png",
+          "/images/products/minimal-court-calfskin-sneaker-sand-4.png",
+          "/images/products/minimal-court-calfskin-sneaker-sand-5.png",
+          "/images/products/minimal-court-calfskin-sneaker-sand-6.png"
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/minimal-court-calfskin-sneaker-black-1.png",
+          "/images/products/minimal-court-calfskin-sneaker-black-2.png",
+          "/images/products/minimal-court-calfskin-sneaker-black-3.png",
+          "/images/products/minimal-court-calfskin-sneaker-black-4.png",
+          "/images/products/minimal-court-calfskin-sneaker-black-5.png",
+          "/images/products/minimal-court-calfskin-sneaker-black-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "40",
+        "stock": 6
+      },
+      {
+        "label": "41",
+        "stock": 9
+      },
+      {
+        "label": "42",
+        "stock": 12
+      },
+      {
+        "label": "43",
+        "stock": 10
+      },
+      {
+        "label": "44",
+        "stock": 7
+      },
+      {
+        "label": "45",
+        "stock": 4
+      }
+    ],
+    "tags": [
+      "sneaker",
+      "minimal",
+      "leather",
+      "everyday"
+    ]
+  },
+  {
+    "id": "sbl-016",
+    "slug": "suede-runner-trainer",
+    "name": "Architectural Suede Runner",
+    "category": "shoes",
+    "subcategory": "Sneakers",
+    "price": 430,
+    "description": "Layered tonal suede and breathable technical mesh perched atop a sculpted Vibram micro-lug sole for all-day metropolitan mileage.",
+    "fabric": "75% calf suede, 25% Italian technical mesh; Vibram rubber sole.",
+    "careInstructions": "Spot clean gently with soft brush and mild soap. Air dry.",
+    "rating": 4.7,
+    "reviewCount": 38,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-10-03T10:00:00Z",
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/suede-runner-trainer-sand-1.png",
+          "/images/products/suede-runner-trainer-sand-2.png",
+          "/images/products/suede-runner-trainer-sand-3.png",
+          "/images/products/suede-runner-trainer-sand-4.png",
+          "/images/products/suede-runner-trainer-sand-5.png",
+          "/images/products/suede-runner-trainer-sand-6.png"
+        ]
+      },
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/suede-runner-trainer-olive-1.png",
+          "/images/products/suede-runner-trainer-olive-2.png",
+          "/images/products/suede-runner-trainer-olive-3.png",
+          "/images/products/suede-runner-trainer-olive-4.png",
+          "/images/products/suede-runner-trainer-olive-5.png",
+          "/images/products/suede-runner-trainer-olive-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "40",
+        "stock": 5
+      },
+      {
+        "label": "41",
+        "stock": 7
+      },
+      {
+        "label": "42",
+        "stock": 9
+      },
+      {
+        "label": "43",
+        "stock": 5
+      },
+      {
+        "label": "44",
+        "stock": 2
+      },
+      {
+        "label": "45",
+        "stock": 3
+      }
+    ],
+    "tags": [
+      "sneaker",
+      "runner",
+      "suede",
+      "vibram"
+    ]
+  },
+  {
+    "id": "sbl-017",
+    "slug": "goodyear-welted-chelsea-boot",
+    "name": "Goodyear-Welted Chelsea Boot",
+    "category": "shoes",
+    "subcategory": "Boots",
+    "price": 680,
+    "description": "Whole-cut calfskin Chelsea boot built on a storm-welted Dainite rubber sole. Designed with slim ankle shaft proportions that disappear neatly under tailored trousers.",
+    "fabric": "100% full-grain Tuscan calfskin; Goodyear storm welt with British Dainite sole.",
+    "careInstructions": "Condition with beeswax balm and brush to a muted luster.",
+    "rating": 5,
+    "reviewCount": 51,
+    "isNew": false,
+    "featured": true,
+    "createdAt": "2026-10-19T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/goodyear-welted-chelsea-boot-black-1.png",
+          "/images/products/goodyear-welted-chelsea-boot-black-2.png",
+          "/images/products/goodyear-welted-chelsea-boot-black-3.png",
+          "/images/products/goodyear-welted-chelsea-boot-black-4.png",
+          "/images/products/goodyear-welted-chelsea-boot-black-5.png",
+          "/images/products/goodyear-welted-chelsea-boot-black-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/goodyear-welted-chelsea-boot-taupe-1.png",
+          "/images/products/goodyear-welted-chelsea-boot-taupe-2.png",
+          "/images/products/goodyear-welted-chelsea-boot-taupe-3.png",
+          "/images/products/goodyear-welted-chelsea-boot-taupe-4.png",
+          "/images/products/goodyear-welted-chelsea-boot-taupe-5.png",
+          "/images/products/goodyear-welted-chelsea-boot-taupe-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "40",
+        "stock": 2
+      },
+      {
+        "label": "41",
+        "stock": 5
+      },
+      {
+        "label": "42",
+        "stock": 7
+      },
+      {
+        "label": "43",
+        "stock": 6
+      },
+      {
+        "label": "44",
+        "stock": 3
+      },
+      {
+        "label": "45",
+        "stock": 1
+      }
+    ],
+    "tags": [
+      "boots",
+      "chelsea",
+      "goodyear",
+      "winter"
+    ]
+  },
+  {
+    "id": "sbl-018",
+    "slug": "weatherproof-suede-side-zip-boot",
+    "name": "Weatherproof Suede Side-Zip Boot",
+    "category": "shoes",
+    "subcategory": "Boots",
+    "price": 640,
+    "description": "Clean mid-ankle boot with concealed medial Excella zipper and hydro-treated Italian suede upper for effortless autumn-to-winter versatility.",
+    "fabric": "100% weather-treated calf suede; leather lining; crepe-tread outsole.",
+    "careInstructions": "Allow to air dry naturally if wet, then restore nap with suede brush.",
+    "rating": 4.8,
+    "reviewCount": 26,
+    "isNew": true,
+    "featured": false,
+    "createdAt": "2026-10-29T10:00:00Z",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/weatherproof-suede-side-zip-boot-olive-1.png",
+          "/images/products/weatherproof-suede-side-zip-boot-olive-2.png",
+          "/images/products/weatherproof-suede-side-zip-boot-olive-3.png",
+          "/images/products/weatherproof-suede-side-zip-boot-olive-4.png",
+          "/images/products/weatherproof-suede-side-zip-boot-olive-5.png",
+          "/images/products/weatherproof-suede-side-zip-boot-olive-6.png"
+        ]
+      },
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/weatherproof-suede-side-zip-boot-sand-1.png",
+          "/images/products/weatherproof-suede-side-zip-boot-sand-2.png",
+          "/images/products/weatherproof-suede-side-zip-boot-sand-3.png",
+          "/images/products/weatherproof-suede-side-zip-boot-sand-4.png",
+          "/images/products/weatherproof-suede-side-zip-boot-sand-5.png",
+          "/images/products/weatherproof-suede-side-zip-boot-sand-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "40",
+        "stock": 3
+      },
+      {
+        "label": "41",
+        "stock": 4
+      },
+      {
+        "label": "42",
+        "stock": 6
+      },
+      {
+        "label": "43",
+        "stock": 4
+      },
+      {
+        "label": "44",
+        "stock": 2
+      },
+      {
+        "label": "45",
+        "stock": 0
+      }
+    ],
+    "tags": [
+      "boots",
+      "suede",
+      "side-zip",
+      "weatherproof"
+    ]
+  },
+  {
+    "id": "sbl-019",
+    "slug": "architectural-grained-leather-tote",
+    "name": "Architectural Grained Leather Tote",
+    "category": "bags",
+    "subcategory": "Tote",
+    "price": 620,
+    "description": "Structured vertical carryall crafted in vegetable-tanned pebbled calfskin with hand-painted edges, suede-lined 16\" laptop sleeve, and hidden magnetic bridge closure.",
+    "fabric": "100% Tuscan vegetable-tanned grained calfskin; microfiber suede interior.",
+    "careInstructions": "Wipe with a dry cotton cloth. Stuff with tissue and store in dust bag.",
+    "rating": 4.9,
+    "reviewCount": 47,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-07T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/architectural-grained-leather-tote-black-1.png",
+          "/images/products/architectural-grained-leather-tote-black-2.png",
+          "/images/products/architectural-grained-leather-tote-black-3.png",
+          "/images/products/architectural-grained-leather-tote-black-4.png",
+          "/images/products/architectural-grained-leather-tote-black-5.png",
+          "/images/products/architectural-grained-leather-tote-black-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/architectural-grained-leather-tote-taupe-1.png",
+          "/images/products/architectural-grained-leather-tote-taupe-2.png",
+          "/images/products/architectural-grained-leather-tote-taupe-3.png",
+          "/images/products/architectural-grained-leather-tote-taupe-4.png",
+          "/images/products/architectural-grained-leather-tote-taupe-5.png",
+          "/images/products/architectural-grained-leather-tote-taupe-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 11
+      }
+    ],
+    "tags": [
+      "tote",
+      "leather",
+      "work",
+      "bags"
+    ]
+  },
+  {
+    "id": "sbl-020",
+    "slug": "saddle-leather-folio-messenger",
+    "name": "Saddle Leather Folio Messenger",
+    "category": "bags",
+    "subcategory": "Messenger",
+    "price": 580,
+    "description": "Slim crossbody courier bag sculpted from bridle-weight saddle leather with solid brushed brass buckles and an adjustable cotton-webbing shoulder strap.",
+    "fabric": "100% full-grain bridle leather; solid brushed brass hardware.",
+    "careInstructions": "Condition annually with neutral leather balm to enrich natural patina.",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-09-25T10:00:00Z",
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/saddle-leather-folio-messenger-ink-1.png",
+          "/images/products/saddle-leather-folio-messenger-ink-2.png",
+          "/images/products/saddle-leather-folio-messenger-ink-3.png",
+          "/images/products/saddle-leather-folio-messenger-ink-4.png",
+          "/images/products/saddle-leather-folio-messenger-ink-5.png",
+          "/images/products/saddle-leather-folio-messenger-ink-6.png"
+        ]
+      },
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/saddle-leather-folio-messenger-sand-1.png",
+          "/images/products/saddle-leather-folio-messenger-sand-2.png",
+          "/images/products/saddle-leather-folio-messenger-sand-3.png",
+          "/images/products/saddle-leather-folio-messenger-sand-4.png",
+          "/images/products/saddle-leather-folio-messenger-sand-5.png",
+          "/images/products/saddle-leather-folio-messenger-sand-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 7
+      }
+    ],
+    "tags": [
+      "messenger",
+      "leather",
+      "crossbody",
+      "bags"
+    ]
+  },
+  {
+    "id": "sbl-021",
+    "slug": "canvas-calfskin-weekender-holdall",
+    "name": "Canvas & Calfskin Weekender Holdall",
+    "category": "bags",
+    "subcategory": "Weekender",
+    "price": 740,
+    "description": "Cabin-approved 45L travel holdall combining waxed Scottish cotton canvas with full-grain calfskin base panels, protective brass studs, and wide-opening Riri zip.",
+    "fabric": "18oz waxed cotton canvas with 100% Tuscan calfskin trim and twill lining.",
+    "careInstructions": "Spot clean canvas with cold water only; condition leather handles as needed.",
+    "rating": 5,
+    "reviewCount": 36,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-03T10:00:00Z",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/canvas-calfskin-weekender-holdall-olive-1.png",
+          "/images/products/canvas-calfskin-weekender-holdall-olive-2.png",
+          "/images/products/canvas-calfskin-weekender-holdall-olive-3.png",
+          "/images/products/canvas-calfskin-weekender-holdall-olive-4.png",
+          "/images/products/canvas-calfskin-weekender-holdall-olive-5.png",
+          "/images/products/canvas-calfskin-weekender-holdall-olive-6.png"
+        ]
+      },
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/canvas-calfskin-weekender-holdall-sand-1.png",
+          "/images/products/canvas-calfskin-weekender-holdall-sand-2.png",
+          "/images/products/canvas-calfskin-weekender-holdall-sand-3.png",
+          "/images/products/canvas-calfskin-weekender-holdall-sand-4.png",
+          "/images/products/canvas-calfskin-weekender-holdall-sand-5.png",
+          "/images/products/canvas-calfskin-weekender-holdall-sand-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 5
+      }
+    ],
+    "tags": [
+      "weekender",
+      "travel",
+      "canvas",
+      "leather"
+    ]
+  },
+  {
+    "id": "sbl-022",
+    "slug": "full-grain-atelier-duffel",
+    "name": "Full-Grain Atelier Weekender",
+    "category": "bags",
+    "subcategory": "Weekender",
+    "price": 960,
+    "description": "Our signature all-leather travel bag cut from supple drum-dyed calfskin with rolled handles, detachable shoulder strap, and internal shoe pocket.",
+    "fabric": "100% drum-dyed Italian calfskin; organic herringbone cotton lining.",
+    "careInstructions": "Keep away from prolonged rain. Store filled with acid-free paper.",
+    "rating": 4.9,
+    "reviewCount": 22,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-08-30T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/full-grain-atelier-duffel-black-1.png",
+          "/images/products/full-grain-atelier-duffel-black-2.png",
+          "/images/products/full-grain-atelier-duffel-black-3.png",
+          "/images/products/full-grain-atelier-duffel-black-4.png",
+          "/images/products/full-grain-atelier-duffel-black-5.png",
+          "/images/products/full-grain-atelier-duffel-black-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/full-grain-atelier-duffel-taupe-1.png",
+          "/images/products/full-grain-atelier-duffel-taupe-2.png",
+          "/images/products/full-grain-atelier-duffel-taupe-3.png",
+          "/images/products/full-grain-atelier-duffel-taupe-4.png",
+          "/images/products/full-grain-atelier-duffel-taupe-5.png",
+          "/images/products/full-grain-atelier-duffel-taupe-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 3
+      }
+    ],
+    "tags": [
+      "weekender",
+      "duffel",
+      "leather",
+      "travel"
+    ]
+  },
+  {
+    "id": "sbl-023",
+    "slug": "bridle-leather-dress-belt",
+    "name": "Bridle Leather Atelier Belt",
+    "category": "accessories",
+    "subcategory": "Belts",
+    "price": 185,
+    "description": "30mm hand-burnished English bridle leather strap paired with a custom-cast minimalist D-frame buckle in brushed antique brass.",
+    "fabric": "100% vegetable-tanned English bridle leather; solid brushed brass buckle.",
+    "careInstructions": "Wipe clean and hang vertically by the buckle after wear.",
+    "rating": 4.9,
+    "reviewCount": 54,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-09-10T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/bridle-leather-dress-belt-black-1.png",
+          "/images/products/bridle-leather-dress-belt-black-2.png",
+          "/images/products/bridle-leather-dress-belt-black-3.png",
+          "/images/products/bridle-leather-dress-belt-black-4.png",
+          "/images/products/bridle-leather-dress-belt-black-5.png",
+          "/images/products/bridle-leather-dress-belt-black-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/bridle-leather-dress-belt-taupe-1.png",
+          "/images/products/bridle-leather-dress-belt-taupe-2.png",
+          "/images/products/bridle-leather-dress-belt-taupe-3.png",
+          "/images/products/bridle-leather-dress-belt-taupe-4.png",
+          "/images/products/bridle-leather-dress-belt-taupe-5.png",
+          "/images/products/bridle-leather-dress-belt-taupe-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "S/M",
+        "stock": 9
+      },
+      {
+        "label": "L/XL",
+        "stock": 11
+      }
+    ],
+    "tags": [
+      "belt",
+      "leather",
+      "accessories",
+      "brass"
+    ]
+  },
+  {
+    "id": "sbl-024",
+    "slug": "cashmere-twill-six-panel-cap",
+    "name": "Cashmere Twill Six-Panel Cap",
+    "category": "accessories",
+    "subcategory": "Caps",
+    "price": 145,
+    "description": "Low-crown unstructured six-panel cap tailored in brushed Loro Piana cashmere-wool twill with a calfskin back strap and tonal blind-debossed S monogram.",
+    "fabric": "60% virgin wool, 40% cashmere twill; calfskin adjustable strap.",
+    "careInstructions": "Spot clean only with cool damp cloth.",
+    "rating": 4.8,
+    "reviewCount": 62,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-09T10:00:00Z",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#EFE9DC",
+        "images": [
+          "/images/products/cashmere-twill-six-panel-cap-cream-1.png",
+          "/images/products/cashmere-twill-six-panel-cap-cream-2.png",
+          "/images/products/cashmere-twill-six-panel-cap-cream-3.png",
+          "/images/products/cashmere-twill-six-panel-cap-cream-4.png",
+          "/images/products/cashmere-twill-six-panel-cap-cream-5.png",
+          "/images/products/cashmere-twill-six-panel-cap-cream-6.png"
+        ]
+      },
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/cashmere-twill-six-panel-cap-sand-1.png",
+          "/images/products/cashmere-twill-six-panel-cap-sand-2.png",
+          "/images/products/cashmere-twill-six-panel-cap-sand-3.png",
+          "/images/products/cashmere-twill-six-panel-cap-sand-4.png",
+          "/images/products/cashmere-twill-six-panel-cap-sand-5.png",
+          "/images/products/cashmere-twill-six-panel-cap-sand-6.png"
+        ]
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/cashmere-twill-six-panel-cap-ink-1.png",
+          "/images/products/cashmere-twill-six-panel-cap-ink-2.png",
+          "/images/products/cashmere-twill-six-panel-cap-ink-3.png",
+          "/images/products/cashmere-twill-six-panel-cap-ink-4.png",
+          "/images/products/cashmere-twill-six-panel-cap-ink-5.png",
+          "/images/products/cashmere-twill-six-panel-cap-ink-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 14
+      }
+    ],
+    "tags": [
+      "cap",
+      "cashmere",
+      "headwear",
+      "accessories"
+    ]
+  },
+  {
+    "id": "sbl-025",
+    "slug": "sabae-acetate-frame-01",
+    "name": "Sabae Acetate Sunglasses — Frame 01",
+    "category": "accessories",
+    "subcategory": "Sunglasses",
+    "price": 320,
+    "description": "Hand-carved in Sabae, Japan from 8mm cured Takiron cellulose acetate with custom five-barrel titanium hinges and mineral glass UV400 lenses.",
+    "fabric": "Japanese cured cellulose acetate; anti-reflective mineral glass lenses.",
+    "careInstructions": "Rinse with lukewarm water and wipe with provided microfiber cloth.",
+    "rating": 5,
+    "reviewCount": 45,
+    "isNew": true,
+    "featured": true,
+    "createdAt": "2026-11-05T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/sabae-acetate-frame-01-black-1.png",
+          "/images/products/sabae-acetate-frame-01-black-2.png",
+          "/images/products/sabae-acetate-frame-01-black-3.png",
+          "/images/products/sabae-acetate-frame-01-black-4.png",
+          "/images/products/sabae-acetate-frame-01-black-5.png",
+          "/images/products/sabae-acetate-frame-01-black-6.png"
+        ]
+      },
+      {
+        "name": "Taupe",
+        "hex": "#8C7E70",
+        "images": [
+          "/images/products/sabae-acetate-frame-01-taupe-1.png",
+          "/images/products/sabae-acetate-frame-01-taupe-2.png",
+          "/images/products/sabae-acetate-frame-01-taupe-3.png",
+          "/images/products/sabae-acetate-frame-01-taupe-4.png",
+          "/images/products/sabae-acetate-frame-01-taupe-5.png",
+          "/images/products/sabae-acetate-frame-01-taupe-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 8
+      }
+    ],
+    "tags": [
+      "sunglasses",
+      "eyewear",
+      "acetate",
+      "japanese"
+    ]
+  },
+  {
+    "id": "sbl-026",
+    "slug": "titanium-architect-sunglasses",
+    "name": "Brushed Titanium Oval Sunglasses",
+    "category": "accessories",
+    "subcategory": "Sunglasses",
+    "price": 360,
+    "description": "Featherlight beta-titanium wireframe sunglasses with engraved bridge detailing and warm-tinted CR-39 polarized lenses.",
+    "fabric": "100% Japanese beta-titanium; polarized UV400 CR-39 lenses.",
+    "careInstructions": "Store in hard leather case when not worn.",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-09-22T10:00:00Z",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#4D5343",
+        "images": [
+          "/images/products/titanium-architect-sunglasses-olive-1.png",
+          "/images/products/titanium-architect-sunglasses-olive-2.png",
+          "/images/products/titanium-architect-sunglasses-olive-3.png",
+          "/images/products/titanium-architect-sunglasses-olive-4.png",
+          "/images/products/titanium-architect-sunglasses-olive-5.png",
+          "/images/products/titanium-architect-sunglasses-olive-6.png"
+        ]
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/titanium-architect-sunglasses-ink-1.png",
+          "/images/products/titanium-architect-sunglasses-ink-2.png",
+          "/images/products/titanium-architect-sunglasses-ink-3.png",
+          "/images/products/titanium-architect-sunglasses-ink-4.png",
+          "/images/products/titanium-architect-sunglasses-ink-5.png",
+          "/images/products/titanium-architect-sunglasses-ink-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 6
+      }
+    ],
+    "tags": [
+      "sunglasses",
+      "titanium",
+      "eyewear",
+      "polarized"
+    ]
+  },
+  {
+    "id": "sbl-027",
+    "slug": "double-face-cashmere-scarf",
+    "name": "Double-Face Brushed Cashmere Scarf",
+    "category": "accessories",
+    "subcategory": "Scarves",
+    "price": 265,
+    "description": "Generously proportioned woven cashmere scarf brushed with natural teasels in Hawick, Scotland for a cloud-like ripple finish and clean twisted fringe.",
+    "fabric": "100% Scottish woven cashmere (200cm × 45cm).",
+    "careInstructions": "Dry clean or gentle cold hand wash. Lay flat to dry.",
+    "rating": 4.9,
+    "reviewCount": 39,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-10-15T10:00:00Z",
+    "colors": [
+      {
+        "name": "Sand",
+        "hex": "#D2C5B4",
+        "images": [
+          "/images/products/double-face-cashmere-scarf-sand-1.png",
+          "/images/products/double-face-cashmere-scarf-sand-2.png",
+          "/images/products/double-face-cashmere-scarf-sand-3.png",
+          "/images/products/double-face-cashmere-scarf-sand-4.png",
+          "/images/products/double-face-cashmere-scarf-sand-5.png",
+          "/images/products/double-face-cashmere-scarf-sand-6.png"
+        ]
+      },
+      {
+        "name": "Cream",
+        "hex": "#EFE9DC",
+        "images": [
+          "/images/products/double-face-cashmere-scarf-cream-1.png",
+          "/images/products/double-face-cashmere-scarf-cream-2.png",
+          "/images/products/double-face-cashmere-scarf-cream-3.png",
+          "/images/products/double-face-cashmere-scarf-cream-4.png",
+          "/images/products/double-face-cashmere-scarf-cream-5.png",
+          "/images/products/double-face-cashmere-scarf-cream-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 10
+      }
+    ],
+    "tags": [
+      "scarf",
+      "cashmere",
+      "winter",
+      "accessories"
+    ]
+  },
+  {
+    "id": "sbl-028",
+    "slug": "slim-calfskin-bifold-wallet",
+    "name": "Slim Box Calfskin Bifold Wallet",
+    "category": "accessories",
+    "subcategory": "Wallets",
+    "price": 210,
+    "description": "Eight-slot slim bifold stitched at 9 SPI in waxed linen thread, lined in tonal goat leather, and finished with hand-creased edges and subtle interior blind stamp.",
+    "fabric": "100% French box calfskin exterior; chèvre leather interior.",
+    "careInstructions": "Avoid overfilling card slots. Wipe with dry cloth.",
+    "rating": 4.9,
+    "reviewCount": 58,
+    "isNew": false,
+    "featured": false,
+    "createdAt": "2026-08-18T10:00:00Z",
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "images": [
+          "/images/products/slim-calfskin-bifold-wallet-black-1.png",
+          "/images/products/slim-calfskin-bifold-wallet-black-2.png",
+          "/images/products/slim-calfskin-bifold-wallet-black-3.png",
+          "/images/products/slim-calfskin-bifold-wallet-black-4.png",
+          "/images/products/slim-calfskin-bifold-wallet-black-5.png",
+          "/images/products/slim-calfskin-bifold-wallet-black-6.png"
+        ]
+      },
+      {
+        "name": "Ink",
+        "hex": "#1C222B",
+        "images": [
+          "/images/products/slim-calfskin-bifold-wallet-ink-1.png",
+          "/images/products/slim-calfskin-bifold-wallet-ink-2.png",
+          "/images/products/slim-calfskin-bifold-wallet-ink-3.png",
+          "/images/products/slim-calfskin-bifold-wallet-ink-4.png",
+          "/images/products/slim-calfskin-bifold-wallet-ink-5.png",
+          "/images/products/slim-calfskin-bifold-wallet-ink-6.png"
+        ]
+      }
+    ],
+    "sizes": [
+      {
+        "label": "OS",
+        "stock": 15
+      }
+    ],
+    "tags": [
+      "wallet",
+      "leather",
+      "small-leather-goods",
+      "accessories"
+    ]
+  }
+]
